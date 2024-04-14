@@ -132,7 +132,3 @@ resultado = numero * 2
 
 # Imprimir el resultado
 print("El doble del número ingresado es:", resultado)
-
-
-
-
