@@ -1,0 +1,8 @@
+Ingrese el nombre del empleado: Juan Perez
+Ingrese la antigüedad del empleado (en años): 3
+Ingrese la evaluación de desempeño del empleado (A, B o C): B
+
+Bonificación para el empleado Juan Perez:
+Sueldo base: $1,000,000
+Bonificación (5%): $50,000
+Sueldo total: $1,050,000
