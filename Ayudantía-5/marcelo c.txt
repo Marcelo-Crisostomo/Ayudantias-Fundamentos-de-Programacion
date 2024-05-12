@@ -1,0 +1,10 @@
+Liquidación de Sueldo
+---------------------
+Sueldo Bruto: $100,000
+Horas Extras: 190.0
+Monto Horas Extras: $158,333
+Sueldo Bruto Total: $258,333
+Descuento AFP (10%): $25,833
+Descuento FONASA (7%): $18,083
+Total Descuentos: $43,917
+Sueldo Líquido: $214,417
