@@ -1,0 +1,3 @@
+Nombre: pichu
+Número: 172
+Tipos: electric
